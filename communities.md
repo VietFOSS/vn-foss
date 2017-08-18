@@ -5,6 +5,7 @@
 * Located in Vietnam
 * Or started by Vietnamese anywhere
 * Or have participation by Vietnamese
+* Promote FOSS, software engineering
 
 ## Data fields
 
