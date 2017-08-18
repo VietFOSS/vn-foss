@@ -20,4 +20,4 @@ There are 3 categories of data we need to collect:
  * Wikis
  * Videos
 
-Feel free to create pull requests and contribute.
+Please feel free to create pull requests and contribute. Sharing is caring! Thank you!
