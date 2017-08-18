@@ -10,6 +10,6 @@
 
 Role = (Creator|Leader|Contributor)
 
-|Project|Contributor|Role|
-|-------|-----------|----|
-|[supervisor](https://github.com/Supervisor/supervisor)|[Nguyen Ngoc Son](https://github.com/ngocson2vn)|Contributor|
+|Project|Category|Contributor|Role|
+|-------|--------|-----------|----|
+|[supervisor](https://github.com/Supervisor/supervisor)|#UNIX #sysadmin|[Nguyen Ngoc Son](https://github.com/ngocson2vn)|Contributor|
