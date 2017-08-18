@@ -8,6 +8,8 @@
 
 ## Data fields
 
-|Name|Category|Year|URL|Wiki/Trello/Chat|Founder(s)|Leader(s)|
-|----|--------|----|---|----------------|----------|---------|
-|Name|Category|Year|URL|Wiki/Trello/Chat|Founder(s)|Leader(s)|
+Role = (Creator|Leader|Contributor)
+
+|ProjName|ProjURL|ContribName|ContribURL|Role|
+|--------|-------|-----------|----------|----|
+|ProjName|ProjURL|ContribName|ContribURL|Role|
