@@ -4,16 +4,19 @@ This repo collects and promotes FOSS projects started by and contributed to by V
 
 There are 3 categories of data we need to collect:
 
-1. FOSS Communities
+### FOSS Communities
+
  * UG - User Groups (Linux, Python, PHP, ...)
  * FOSS Conferences/events
 
-2. Open Source Software
+### Open Source Software
  * Written in any programming language
  * In public domain or have an open source license
  * Publicly accessible (GitHub, Bitbucket, Bazaar, your own company repo, ...)
 
-3. Open Documentation
+### Open Documentation
  * Tutorials/slides with source (md, js/html, doc, ppt, open document formats, ...)
  * Wikis
  * Videos
+
+Feel free to create pull requests and contribute.
