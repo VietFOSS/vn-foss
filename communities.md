@@ -8,6 +8,6 @@
 
 ## Data fields
 
-|Name|Category|Year|Member Count|Web|Chat/Mail|Wiki/Projects|Founder(s)|Leader(s)|
-|----|--------|----|------------|---|---------|-------------|----------|---------|
-|Name|Category|Year|Member Count|Web|Chat/Mail|Wiki/Projects|Founder(s)|Leader(s)|
+|Name|Category|Year|Members|Wiki/Trello/IRC/Mail|Founder(s)|Leader(s)|
+|----|--------|----|-------|--------------------|----------|---------|
+|[FOSS.vn](http://foss.vn/)|Edu|???|???|???|???|???|
