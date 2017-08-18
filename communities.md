@@ -10,4 +10,4 @@
 
 |Name|Category|Year|Members|Wiki/Trello/IRC/Mail|Founder(s)|Leader(s)|
 |----|--------|----|-------|--------------------|----------|---------|
-|[FOSS.vn](http://foss.vn/)|Edu|[Wiki](http://foss.vn/)|???|???|???|???|
+|[FOSS.vn](http://foss.vn/)|Edu|???|???|[Wiki](http://foss.vn/)|???|???|
