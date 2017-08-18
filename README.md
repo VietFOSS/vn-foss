@@ -8,6 +8,7 @@ There are 3 categories of data we need to collect:
 
  * UG - User Groups (Linux, Python, PHP, ...)
  * FOSS Conferences/events
+ * Promote FOSS and software engineering
 
 ### Open Source Software
  * Written in any programming language
