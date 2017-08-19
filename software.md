@@ -14,3 +14,4 @@ Role = (Creator|Leader|Contributor)
 |-------|--------|-----------|----|--------|-----------------|
 |[capstone](https://github.com/aquynh/capstone)|Disassembler Framework|[Nguyen Anh Quynh](https://github.com/aquynh)|Creator|???|[Web](http://www.capstone-engine.org/)|
 |[supervisor](https://github.com/Supervisor/supervisor)|UNIX/sysadmin|[Nguyen Ngoc Son](https://github.com/ngocson2vn)|Contributor|JP/Tokyo|[Web](http://supervisord.org/)|
+|Git|Category|[Nguyễn Thái Ngọc Duy](https://github.com/pclouds)|Contributor|???|[Notes](https://developer.ibm.com/open/2015/12/11/learning-about-the-git-codebase-using-git-history-data/)|
