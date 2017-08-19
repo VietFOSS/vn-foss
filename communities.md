@@ -18,3 +18,4 @@
 |[Cộng đồng Python Việt Nam](https://github.com/pythonvietnam)|Language|???|???|[Web](http://pycon.vn/)/[FB Group](https://www.facebook.com/groups/pythonvn/)|???|???|
 |[Python Sai Gon](https://www.facebook.com/groups/python.saigon/)|Language|???|???|-|[Peter Hưng Hoàng](https://www.linkedin.com/in/hunghuuhoang/)|Peter Hưng Hoàng|
 |[Laravel Vietnam](https://www.facebook.com/vnlaravel/)|PHP Framework|2014|7000+|[FB Group](https://www.facebook.com/groups/vnlaravel/)|[Hoang Stark](https://twitter.com/hoangstark)|[Hoang Stark](https://twitter.com/hoangstark)|
+|[Laravel Vietnam (2)](https://github.com/LaravelVietnam)|PHP Framework|???|900+|[FB Group](https://www.facebook.com/laravelvn)|???|???|
