@@ -14,3 +14,4 @@
 |[FOSS.vn](http://foss.vn/)|Edu|???|???|[Wiki](http://foss.vn/)|???|???|
 |[Grokking](https://www.grokking.org/)|Professional|???|450+|[Forum](https://discuss.grokking.org/)|[Huy Nguyen](https://www.linkedin.com/in/nvquanghuy/)|Huy Nguyen|
 |[Ruby Vietnam](http://ruby.org.vn/)|Language|???|???|[GitHub](https://github.com/ruby-vietnam)|???|???|
+|[Laravel Vietnam](https://www.facebook.com/vnlaravel/)|PHP Framework|2014|7000+|[FB Group](https://www.facebook.com/groups/vnlaravel/)|[Hoang Stark](https://twitter.com/hoangstark)|[Hoang Stark](https://twitter.com/hoangstark)|
