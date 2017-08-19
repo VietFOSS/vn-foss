@@ -14,3 +14,4 @@
 |[FOSS.vn](http://foss.vn/)|Edu|???|???|[Wiki](http://foss.vn/)|???|???|
 |[Grokking](https://www.grokking.org/)|Professional|???|450+|[Forum](https://discuss.grokking.org/)|[Huy Nguyen](https://www.linkedin.com/in/nvquanghuy/)|Huy Nguyen|
 |[Ruby Vietnam](http://ruby.org.vn/)|Language|???|???|[GitHub](https://github.com/ruby-vietnam)|???|???|
+|[Python HCM Meetup](https://www.meetup.com/Thanh-Pho-Ho-Chi-Minh-Python-Meetup/)|Python|???|500+|-|[Thanh](https://www.meetup.com/Thanh-Pho-Ho-Chi-Minh-Python-Meetup/members/180110312/), [Hieu Nguyen](https://www.meetup.com/Thanh-Pho-Ho-Chi-Minh-Python-Meetup/members/218696222/)|Thanh & Hieu Nguyen|
