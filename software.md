@@ -12,4 +12,5 @@ Role = (Creator|Leader|Contributor)
 
 |Project|Category|Contributor|Role|
 |-------|--------|-----------|----|
+|[capstone](https://github.com/aquynh/capstone)|Disassembler Framework|[Nguyen Anh Quynh](https://github.com/aquynh)|Creator|
 |[supervisor](https://github.com/Supervisor/supervisor)|UNIX/sysadmin|[Nguyen Ngoc Son](https://github.com/ngocson2vn)|Contributor|
