@@ -10,7 +10,7 @@
 
 ## Data fields
 
-Category = (Original Work|Translation)
+Category = (Original|Translation)
 
 |Project|Category|Author|Web/Wiki/IRC/Mail|
 |-------|--------|----|-----------------|
