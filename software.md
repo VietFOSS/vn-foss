@@ -18,3 +18,4 @@ Role = (Creator|Leader|Contributor)
 |[React](https://facebook.github.io/react/)|UI Framework|[Nguyễn Trương Duy](https://www.linkedin.com/in/duy-nguyen-truong-0455a136/)|Contributor|US/California|[Notes](https://facebook.github.io/react/acknowledgements.html)/[GitHub](https://github.com/truongduy134)|
 |[Laravel Framework](https://github.com/laravel/framework)|PHP Framework|[Đào Vinh Hiển](https://github.com/hiendv)|Contributor|VN/Hanoi|[Notes](https://github.com/laravel/framework/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ahiendv)/[GitHub](https://github.com/hiendv)|
 |[Spree](https://github.com/spree/spree)|Ruby Framework|[joneslee85](https://github.com/joneslee85)|Contributor|???|[GitHub](https://github.com/joneslee85)|
+|[Spree](https://github.com/elixir-lang/elixir)|Erlang Framework|[Kien Nguyen](https://github.com/kiennt)|Contributor|???|[GitHub](https://github.com/joneslee85)/[Web](http://kiennt.com/)|
