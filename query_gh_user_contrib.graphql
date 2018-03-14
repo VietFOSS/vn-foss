@@ -1,0 +1,59 @@
+{
+  user(login: "vietlq") {
+    avatarUrl (size: 256)
+    bio
+    email
+    websiteUrl
+    company
+    location
+    followers {
+      totalCount
+    }
+    pullRequests(states: MERGED) {
+      totalCount
+    }
+    repositories(first: 100, isFork: false) {
+      nodes {
+        name
+        id
+        description
+        isFork
+        isPrivate
+        stargazers {
+          totalCount
+        }
+        forks {
+          totalCount
+        }
+      }
+      totalCount
+    }
+    contributedRepositories(first: 100) {
+      nodes {
+        name
+        id
+        description
+        isFork
+        isPrivate
+        stargazers {
+          totalCount
+        }
+        forks {
+          totalCount
+        }
+      }
+      totalCount
+    }
+    organizations(first: 100) {
+
+      nodes {
+        name
+        email
+        login
+        id
+        description
+      }
+      totalCount
+    }
+  }
+}
